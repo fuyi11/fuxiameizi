@@ -17,7 +17,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:text="1012126908@qq.com"
+        android:text="fuyinb@163.com"
         android:textColor="#FFF"
         android:textSize="14sp" />
 
@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@id/username"
-        android:text="夏韦子"
+        android:text="伏毅"
         android:textColor="#FFF"
         android:textSize="14sp" />
 
